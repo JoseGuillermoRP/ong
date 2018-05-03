@@ -1,0 +1,33 @@
+footer .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+.sociales{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+
+}
+.sociales a {
+    color: #333;
+    text-decoration: none;
+
+}
+.Tamano {
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.Tamano p{
+    width: 100%;
+    text-align: ;
+    justify-content: center;
+}
+.letra p {
+    font-weight:bold;
+    font-size: 14px;
+    margin: 0;
+}
+

@@ -1,0 +1,17 @@
+.miClase{
+    height: 30px;
+    border: 10px solid;
+    color: darkred;
+}
+.bordeZegel {
+    border-color:#EE380B;
+    border-style: dotted;
+    border-width: 3px;
+}
+.bordejp {
+    border-color:#9C0BA8;
+    border-style: dotted;
+    border-width: 10px;
+    background-color: #4F2948;
+    color:#F3EF10;
+}
